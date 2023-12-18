@@ -78,3 +78,7 @@
 	path = sourcemodify
 	url = https://github.com/repboxr/sourcemodify
 	branch = main
+[submodule "stringtools"]
+	path = stringtools
+	url = https://github.com/skranz/stringtools
+	registered = false
