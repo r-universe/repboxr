@@ -44,6 +44,12 @@
   {
     "package": "stringtools",
     "url": "https://github.com/skranz/stringtools",
+    "via": ["repboxR"],
+    "from": "repboxR"
+  },
+  {
+    "package": "stringtools",
+    "url": "https://github.com/skranz/stringtools",
     "via": ["repboxverse"],
     "from": "repboxverse"
   },
