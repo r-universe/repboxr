@@ -10,6 +10,10 @@
 	path = GithubActions
 	url = https://github.com/repboxr/GithubActions
 	branch = main
+[submodule "dbmisc"]
+	path = dbmisc
+	url = https://github.com/skranz/dbmisc
+	registered = false
 [submodule "pkgFunIndex"]
 	path = pkgFunIndex
 	url = https://github.com/repboxr/pkgFunIndex
