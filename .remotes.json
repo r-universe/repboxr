@@ -20,6 +20,12 @@
   {
     "package": "stringtools",
     "url": "https://github.com/skranz/stringtools",
+    "via": ["repboxCodeText"],
+    "from": "repboxCodeText"
+  },
+  {
+    "package": "stringtools",
+    "url": "https://github.com/skranz/stringtools",
     "via": ["repboxDB"],
     "from": "repboxDB"
   },
