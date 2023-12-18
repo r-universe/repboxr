@@ -6,6 +6,12 @@
     "from": "repboxReg"
   },
   {
+    "package": "dbmisc",
+    "url": "https://github.com/skranz/dbmisc",
+    "via": ["repboxverse"],
+    "from": "repboxverse"
+  },
+  {
     "package": "stringtools",
     "url": "https://github.com/skranz/stringtools",
     "via": ["ExtractSciTab"],
