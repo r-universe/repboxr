@@ -2,6 +2,12 @@
   {
     "package": "stringtools",
     "url": "https://github.com/skranz/stringtools",
+    "via": ["ExtractSciTab"],
+    "from": "ExtractSciTab"
+  },
+  {
+    "package": "stringtools",
+    "url": "https://github.com/skranz/stringtools",
     "via": ["pkgFunIndex"],
     "from": "pkgFunIndex"
   },
