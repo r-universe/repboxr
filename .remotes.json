@@ -50,6 +50,12 @@
   {
     "package": "stringtools",
     "url": "https://github.com/skranz/stringtools",
+    "via": ["repboxReg"],
+    "from": "repboxReg"
+  },
+  {
+    "package": "stringtools",
+    "url": "https://github.com/skranz/stringtools",
     "via": ["repboxverse"],
     "from": "repboxverse"
   },
