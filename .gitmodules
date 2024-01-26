@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/repboxr/universe
+	url = https://github.com/repboxr/repboxr.r-universe.dev
 	branch = HEAD
 [submodule "ExtractSciTab"]
 	path = ExtractSciTab
