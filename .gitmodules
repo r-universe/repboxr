@@ -78,6 +78,10 @@
 	path = repboxverse
 	url = https://github.com/repboxr/repboxverse
 	branch = main
+[submodule "restorepoint"]
+	path = restorepoint
+	url = https://github.com/skranz/restorepoint
+	registered = false
 [submodule "sourcemodify"]
 	path = sourcemodify
 	url = https://github.com/repboxr/sourcemodify

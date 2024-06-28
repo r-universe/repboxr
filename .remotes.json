@@ -12,6 +12,12 @@
     "from": "repboxverse"
   },
   {
+    "package": "restorepoint",
+    "url": "https://github.com/skranz/restorepoint",
+    "via": ["repboxDB"],
+    "from": "repboxDB"
+  },
+  {
     "package": "stringtools",
     "url": "https://github.com/skranz/stringtools",
     "via": ["ExtractSciTab"],
