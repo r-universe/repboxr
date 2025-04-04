@@ -18,6 +18,10 @@
 	path = pkgFunIndex
 	url = https://github.com/repboxr/pkgFunIndex
 	branch = main
+[submodule "repboxAI"]
+	path = repboxAI
+	url = https://github.com/repboxr/repboxAI
+	branch = main
 [submodule "repboxArt"]
 	path = repboxArt
 	url = https://github.com/repboxr/repboxArt
@@ -69,6 +73,10 @@
 [submodule "repboxStata"]
 	path = repboxStata
 	url = https://github.com/repboxr/repboxStata
+	branch = main
+[submodule "repboxTableTools"]
+	path = repboxTableTools
+	url = https://github.com/repboxr/repboxTableTools
 	branch = main
 [submodule "repboxUtils"]
 	path = repboxUtils
