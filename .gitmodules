@@ -38,6 +38,10 @@
 	path = repboxDeploy
 	url = https://github.com/repboxr/repboxDeploy
 	branch = main
+[submodule "repboxDoc"]
+	path = repboxDoc
+	url = https://github.com/repboxr/repboxDoc
+	branch = main
 [submodule "repboxEvaluate"]
 	path = repboxEvaluate
 	url = https://github.com/repboxr/repboxEvaluate
