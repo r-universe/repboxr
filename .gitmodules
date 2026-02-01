@@ -10,10 +10,6 @@
 	path = GithubActions
 	url = https://github.com/repboxr/GithubActions
 	branch = main
-[submodule "dbmisc"]
-	path = dbmisc
-	url = https://github.com/skranz/dbmisc
-	registered = false
 [submodule "pkgFunIndex"]
 	path = pkgFunIndex
 	url = https://github.com/repboxr/pkgFunIndex
@@ -90,15 +86,7 @@
 	path = repboxverse
 	url = https://github.com/repboxr/repboxverse
 	branch = main
-[submodule "restorepoint"]
-	path = restorepoint
-	url = https://github.com/skranz/restorepoint
-	registered = false
 [submodule "sourcemodify"]
 	path = sourcemodify
 	url = https://github.com/repboxr/sourcemodify
 	branch = main
-[submodule "stringtools"]
-	path = stringtools
-	url = https://github.com/skranz/stringtools
-	registered = false
