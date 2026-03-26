@@ -18,6 +18,10 @@
 	path = pkgFunIndex
 	url = https://github.com/repboxr/pkgFunIndex
 	branch = main
+[submodule "regtranslate"]
+	path = regtranslate
+	url = https://github.com/skranz/regtranslate
+	branch = main
 [submodule "repboxAI"]
 	path = repboxAI
 	url = https://github.com/repboxr/repboxAI
@@ -101,4 +105,8 @@
 [submodule "sourcemodify"]
 	path = sourcemodify
 	url = https://github.com/repboxr/sourcemodify
+	branch = main
+[submodule "stata2r"]
+	path = stata2r
+	url = https://github.com/skranz/stata2r
 	branch = main
