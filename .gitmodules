@@ -10,6 +10,10 @@
 	path = GithubActions
 	url = https://github.com/repboxr/GithubActions
 	branch = main
+[submodule "metaregBase"]
+	path = metaregBase
+	url = https://github.com/repboxr/metaregBase
+	branch = main
 [submodule "pkgFunIndex"]
 	path = pkgFunIndex
 	url = https://github.com/repboxr/pkgFunIndex
@@ -29,6 +33,10 @@
 [submodule "repboxDB"]
 	path = repboxDB
 	url = https://github.com/repboxr/repboxDB
+	branch = main
+[submodule "repboxDRF"]
+	path = repboxDRF
+	url = https://github.com/repboxr/repboxDRF
 	branch = main
 [submodule "repboxDeploy"]
 	path = repboxDeploy
@@ -73,6 +81,10 @@
 [submodule "repboxStata"]
 	path = repboxStata
 	url = https://github.com/repboxr/repboxStata
+	branch = main
+[submodule "repboxStataReg"]
+	path = repboxStataReg
+	url = https://github.com/repboxr/repboxStataReg
 	branch = main
 [submodule "repboxTableTools"]
 	path = repboxTableTools
