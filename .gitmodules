@@ -114,3 +114,7 @@
 	path = stata2r
 	url = https://github.com/skranz/stata2r
 	branch = main
+[submodule "stringtools"]
+	path = stringtools
+	url = https://github.com/skranz/stringtools
+	branch = master
