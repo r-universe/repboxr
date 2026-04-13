@@ -2,13 +2,25 @@
 	path = .registry
 	url = https://github.com/repboxr/repboxr.r-universe.dev
 	branch = HEAD
+[submodule "DataSchema"]
+	path = DataSchema
+	url = https://github.com/skranz/DataSchema
+	branch = main
 [submodule "ExtractSciTab"]
 	path = ExtractSciTab
 	url = https://github.com/repboxr/extractSciTab
 	branch = main
+[submodule "FuzzyProduction"]
+	path = FuzzyProduction
+	url = https://github.com/skranz/FuzzyProduction
+	branch = main
 [submodule "GithubActions"]
 	path = GithubActions
 	url = https://github.com/repboxr/GithubActions
+	branch = main
+[submodule "aikit"]
+	path = aikit
+	url = https://github.com/skranz/aikit
 	branch = main
 [submodule "metaregBase"]
 	path = metaregBase
@@ -106,6 +118,14 @@
 	path = restorepoint
 	url = https://github.com/skranz/restorepoint
 	branch = master
+[submodule "rgemini"]
+	path = rgemini
+	url = https://github.com/skranz/rgemini
+	branch = main
+[submodule "rmistral"]
+	path = rmistral
+	url = https://github.com/skranz/rmistral
+	branch = main
 [submodule "sourcemodify"]
 	path = sourcemodify
 	url = https://github.com/repboxr/sourcemodify
